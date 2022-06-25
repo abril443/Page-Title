@@ -1,0 +1,28 @@
+.map{
+    display: none;
+}
+.map2{
+    display:none;
+}
+.two{
+    display: none;
+}
+
+.doraimg{
+    width: 400px;
+    display: none;
+}
+.forest{
+    display:none;
+}
+h1{
+    display:none;
+}
+
+.house{
+    display:none;
+}
+
+body{
+    background-image: linear-gradient(to right, #ffd9b3, #ffb3c6);
+}
